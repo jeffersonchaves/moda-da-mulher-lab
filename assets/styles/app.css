@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Abel'; /* Escolha um nome para a sua fonte */
+  src: url('../fonts/abel/Abel-Regular.ttf'); /* Especifique o caminho do arquivo .ttf */
+}
+
+body {
+    font-family: 'Abel', Arial, sans-serif;
+}
